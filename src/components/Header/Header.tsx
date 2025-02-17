@@ -14,7 +14,10 @@ const Header = () => {
     <div>
       <Menubar>
         <MenubarMenu>
-          <MenubarTrigger>File</MenubarTrigger>
+          <MenubarTrigger>Home</MenubarTrigger>
+          <MenubarTrigger>Dashboard</MenubarTrigger>
+          <MenubarTrigger>About</MenubarTrigger>
+          <MenubarTrigger>Profile</MenubarTrigger>
         </MenubarMenu>
       </Menubar>
     </div>
